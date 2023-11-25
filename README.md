@@ -40,9 +40,4 @@ This project is licensed under the GNU General Public License v3.0, ensuring it 
 
 Feel free to contribute, report issues, or suggest enhancements!
 
-## Acknowledgments
-
-- Special thanks to [OpenSSL](https://www.openssl.org/) for cryptographic functionality.
-- ASCII art adapted from [ASCII Art Archive](https://www.asciiart.eu/).
-
-Happy password generating with CipherKey Genie! 🌟
+### Happy password generating with CipherKey Genie! 🌟
